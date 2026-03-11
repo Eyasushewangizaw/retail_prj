@@ -174,13 +174,33 @@ Metrics include:
 
 ## Sales by Location (Map)
 
+* Shows order distribution across US cities
+
+* Demonstrates geographic analytics.
+
 <img width="1313" height="752" alt="Screenshot 2026-03-11 031758" src="https://github.com/user-attachments/assets/884ac461-3695-476f-8686-51a70a29f186" />
 
 ## Orders by Year (Trend)
 
+* Shows trend over time
+
+* Useful for sales forecasting or seasonality analysis.
+
 <img width="1316" height="758" alt="Screenshot 2026-03-11 031731" src="https://github.com/user-attachments/assets/c0cbacec-5fb6-471f-98fc-78e5efb49f80" />
 
 ## Revenue by Product Category
+
+Clear comparison of:
+
+* Electronics (highest)
+
+* Furniture
+
+* Sports
+
+* Fashion
+
+* Grocery
 
 <img width="1324" height="771" alt="Screenshot 2026-03-11 031658" src="https://github.com/user-attachments/assets/3f4dde5b-0b69-4d8c-88dd-985a3c950356" />
 
