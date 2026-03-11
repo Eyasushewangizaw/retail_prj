@@ -95,3 +95,17 @@ Output:
 | discount_pct | Must be between 0–100  |
 | customer_age | Must be between 15–100 |
 
+
+# Standardization
+
+Gender standardized to:
+
+    M / F
+
+Payment type standardized to:
+
+    Card / UPI / COD
+
+Output:
+
+    data/silver/retail_sales_clean.parquet
