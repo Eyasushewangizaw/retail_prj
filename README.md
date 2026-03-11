@@ -1,4 +1,4 @@
-<img width="1313" height="752" alt="Screenshot 2026-03-11 031758" src="https://github.com/user-attachments/assets/20d6bae7-e5ab-4f8d-9dfb-1796bd5f88de" />## Retail Sales ETL Pipeline with PySpark & Spark Cluster
+
 # Project Overview
 
 This project demonstrates a production-style data engineering pipeline built using PySpark and Apache Spark running on Docker.
