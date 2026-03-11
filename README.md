@@ -58,3 +58,19 @@ Run the generator:
 Output:
 
     data/raw/retail_sales_raw.csv
+
+
+# Step 2 - Bronze Layer (Raw Ingestion)
+
+The Bronze layer stores the raw dataset with minimal processing.
+
+Features:
+
+* Explicit schema definition
+
+* Raw CSV ingestion
+
+* Stored as Parquet for performance
+
+Output:
+    data/bronze/retail_sales_bronze.parquet
