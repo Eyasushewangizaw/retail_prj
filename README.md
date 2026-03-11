@@ -139,3 +139,14 @@ Metrics include:
 
         gold/product_category_performance.parquet
 
+## City-Level Revenue Metrics
+
+Metrics include:
+
+  * Revenue by city
+    
+  * Order count
+    
+  * Average order value
+
+        gold/city_revenue_metrics.parquet
