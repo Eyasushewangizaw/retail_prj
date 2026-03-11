@@ -50,3 +50,11 @@ Examples of simulated data problems:
 * Negative prices
 * Invalid discounts
 * Shipping dates before order dates
+
+Run the generator:
+
+    python generate_retail_data.py
+
+Output:
+
+    data/raw/retail_sales_raw.csv
