@@ -124,6 +124,6 @@ Metrics include:
 
 * Average order value
 
-  gold/daily_sales_metrics.parquet
+      gold/daily_sales_metrics.parquet
 
 
