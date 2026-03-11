@@ -30,6 +30,7 @@ Components:
   * Spark Master
   * Spark Worker 1
   * Spark Worker 2
+
 Start the cluster:
 
     docker-compose up -d
