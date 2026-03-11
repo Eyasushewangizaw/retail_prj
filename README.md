@@ -72,6 +72,16 @@ Features:
 
 * Stored as Parquet for performance
 
+# Step 3 — Silver Layer (Data Cleaning)
+
+The Silver layer performs data validation and cleaning.
+
+Cleaning steps include:
+
+# Deduplication
+
+Duplicate transactions removed using transaction_id.
+
 Output:
 
     data/bronze/retail_sales_bronze.parquet
