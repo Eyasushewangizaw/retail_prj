@@ -114,7 +114,7 @@ Output:
 
 The Gold layer creates aggregated datasets for analytics.
 
-# Daily Sales Metrics
+## Daily Sales Metrics
 
 Metrics include:
 
@@ -127,7 +127,7 @@ Metrics include:
       gold/daily_sales_metrics.parquet
 
 
-# Product Category Performance
+## Product Category Performance
 
 Metrics include:
 
