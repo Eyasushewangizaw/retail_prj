@@ -16,3 +16,9 @@ The pipeline simulates a real-world retail system by:
    * Visualizing insights using Power BI
 
 The project demonstrates core data engineering skills such as distributed processing, data quality validation, and scalable ETL design.
+
+# Architecture
+
+<img width="942" height="431" alt="Screenshot 2026-03-10 191028" src="https://github.com/user-attachments/assets/5f7f3ca8-4106-4b93-a94c-f205aa80bdf4" />
+
+
