@@ -73,4 +73,5 @@ Features:
 * Stored as Parquet for performance
 
 Output:
+
     data/bronze/retail_sales_bronze.parquet
