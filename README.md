@@ -5,14 +5,14 @@ This project demonstrates a production-style data engineering pipeline built usi
 
 The pipeline simulates a real-world retail system by:
 
-    * Generating 1,000,000 synthetic retail transactions
+   * Generating 1,000,000 synthetic retail transactions
     
-    * Building a Bronze → Silver → Gold ETL pipeline
+   * Building a Bronze → Silver → Gold ETL pipeline
     
-    * Cleaning messy raw data
+   * Cleaning messy raw data
     
-    * Creating analytics-ready datasets
+   * Creating analytics-ready datasets
     
-    * Visualizing insights using Power BI
+   * Visualizing insights using Power BI
 
 The project demonstrates core data engineering skills such as distributed processing, data quality validation, and scalable ETL design.
