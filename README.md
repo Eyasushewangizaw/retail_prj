@@ -38,3 +38,15 @@ Start the cluster:
 Spark UI:
 
     http://localhost:8080
+
+# Step 1 — Generate Raw Retail Data
+
+The project generates 1 million synthetic retail transactions with intentional data quality issues.
+
+Examples of simulated data problems:
+
+* Duplicate transactions
+* Invalid customer ages
+* Negative prices
+* Invalid discounts
+* Shipping dates before order dates
