@@ -22,3 +22,12 @@ The project demonstrates core data engineering skills such as distributed proces
 <img width="942" height="431" alt="Screenshot 2026-03-10 191028" src="https://github.com/user-attachments/assets/5f7f3ca8-4106-4b93-a94c-f205aa80bdf4" />
 
 
+# Spark Cluster Setup
+
+A distributed Spark environment is created using Docker.
+
+Components:
+  * Spark Master
+  * Spark Worker 1
+  * Spark Worker 2
+
