@@ -105,7 +105,23 @@ Gender standardized to:
 Payment type standardized to:
 
     Card / UPI / COD
-
+    
 Output:
 
     data/silver/retail_sales_clean.parquet
+
+# Step 4 — Gold Layer (Business Metrics)
+
+The Gold layer creates aggregated datasets for analytics.
+
+Daily Sales Metrics
+
+Metrics include:
+
+* Total revenue
+
+* Total orders
+
+* Average order value
+
+
