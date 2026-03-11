@@ -41,6 +41,8 @@ Spark UI:
 
 <img width="1917" height="711" alt="Screenshot 2026-03-10 042303" src="https://github.com/user-attachments/assets/27eb5434-e1b5-42fc-a5bc-ec80cf12b561" />
 
+<img width="1915" height="1005" alt="Screenshot 2026-03-10 042248" src="https://github.com/user-attachments/assets/f2239892-9199-4c90-8a79-d2bff2d37a83" />
+
 
 # Step 1 — Generate Raw Retail Data
 
