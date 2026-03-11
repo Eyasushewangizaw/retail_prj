@@ -1,3 +1,18 @@
-# retail_prj
+## Retail Sales ETL Pipeline with PySpark & Spark Cluster
+# Project Overview
 
-<img width="942" height="431" alt="Screenshot 2026-03-10 191028" src="https://github.com/user-attachments/assets/8c45e640-d2ec-47c1-bfb1-665f3a0b4d51" />
+This project demonstrates a production-style data engineering pipeline built using PySpark and Apache Spark running on Docker.
+
+The pipeline simulates a real-world retail system by:
+
+    * Generating 1,000,000 synthetic retail transactions
+    
+    * Building a Bronze → Silver → Gold ETL pipeline
+    
+    * Cleaning messy raw data
+    
+    * Creating analytics-ready datasets
+    
+    * Visualizing insights using Power BI
+
+The project demonstrates core data engineering skills such as distributed processing, data quality validation, and scalable ETL design.
