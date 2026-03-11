@@ -1,4 +1,4 @@
-## Retail Sales ETL Pipeline with PySpark & Spark Cluster
+<img width="1313" height="752" alt="Screenshot 2026-03-11 031758" src="https://github.com/user-attachments/assets/20d6bae7-e5ab-4f8d-9dfb-1796bd5f88de" />## Retail Sales ETL Pipeline with PySpark & Spark Cluster
 # Project Overview
 
 This project demonstrates a production-style data engineering pipeline built using PySpark and Apache Spark running on Docker.
@@ -168,6 +168,23 @@ Metrics include:
 <img width="1918" height="981" alt="Screenshot 2026-03-10 015733" src="https://github.com/user-attachments/assets/4da4a121-72c8-42e1-9a54-a0285a6e0760" />
 
 <img width="1909" height="987" alt="Screenshot 2026-03-10 015751" src="https://github.com/user-attachments/assets/267a6ce0-3afc-4c72-946a-959b0cb1f4b5" />
+
+
+# Power Bi
+
+## Sales by Location (Map)
+
+<img width="1313" height="752" alt="Screenshot 2026-03-11 031758" src="https://github.com/user-attachments/assets/884ac461-3695-476f-8686-51a70a29f186" />
+
+## Orders by Year (Trend)
+
+<img width="1316" height="758" alt="Screenshot 2026-03-11 031731" src="https://github.com/user-attachments/assets/c0cbacec-5fb6-471f-98fc-78e5efb49f80" />
+
+## Revenue by Product Category
+
+<img width="1324" height="771" alt="Screenshot 2026-03-11 031658" src="https://github.com/user-attachments/assets/3f4dde5b-0b69-4d8c-88dd-985a3c950356" />
+
+
 
 
 
