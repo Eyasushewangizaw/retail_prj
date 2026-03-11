@@ -85,3 +85,13 @@ Duplicate transactions removed using transaction_id.
 Output:
 
     data/bronze/retail_sales_bronze.parquet
+    
+# Data Validation
+
+| Column       | Rule                   |
+| ------------ | ---------------------- |
+| quantity     | Must be > 0            |
+| unit_price   | Must be positive       |
+| discount_pct | Must be between 0–100  |
+| customer_age | Must be between 15–100 |
+
