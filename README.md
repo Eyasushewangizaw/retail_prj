@@ -1,7 +1,7 @@
 
 # Project Overview
 
-This project demonstrates a production-style data engineering pipeline built using PySpark and Apache Spark running on Docker.
+This project demonstrates a production-style data engineering pipeline built using PySpark running on Docker.
 
 The pipeline simulates a real-world retail system by:
 
