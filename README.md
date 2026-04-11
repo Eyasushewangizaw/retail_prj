@@ -175,9 +175,9 @@ Metrics include:
 <img width="1909" height="987" alt="Screenshot 2026-03-10 015751" src="https://github.com/user-attachments/assets/267a6ce0-3afc-4c72-946a-959b0cb1f4b5" />
 
 
-# Power Bi
+# Power Bi 
 
-## Sales by Location (Map)
+### Sales by Location (Map)
 
 * Shows order distribution across US cities
 
@@ -185,7 +185,7 @@ Metrics include:
 
 <img width="1313" height="752" alt="Screenshot 2026-03-11 031758" src="https://github.com/user-attachments/assets/884ac461-3695-476f-8686-51a70a29f186" />
 
-## Orders by Year (Trend)
+### Orders by Year (Trend)
 
 * Shows trend over time
 
