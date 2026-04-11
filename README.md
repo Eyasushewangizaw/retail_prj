@@ -193,7 +193,7 @@ Metrics include:
 
 <img width="1316" height="758" alt="Screenshot 2026-03-11 031731" src="https://github.com/user-attachments/assets/c0cbacec-5fb6-471f-98fc-78e5efb49f80" />
 
-## Revenue by Product Category
+### Revenue by Product Category
 
 Clear comparison of:
 
