@@ -177,6 +177,8 @@ Metrics include:
 
 # Power Bi 
 
+## Visualization
+
 ### Sales by Location (Map)
 
 * Shows order distribution across US cities
